@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Comic Mono', Consolas, 'Courier New', monospace",
+    "workbench.startupEditor": "none",
+    "window.restoreWindows": "none",
+    "files.enableTrash": false,
+    "explorer.compactFolders": false
+}
